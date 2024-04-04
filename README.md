@@ -20,7 +20,7 @@ My main focus is web development using React. Speaking of which I have very stro
 ### React
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-Description, some experience to be added, stay tuned.
+<!-- Description, some experience to be added, stay tuned. -->
 
 #### React state management
 
@@ -37,13 +37,13 @@ Also, played around with Turborepo.
 Module Federation is another topic that related to scalability I've been studying and read a [book](https://module-federation.myshopify.com/products/practical-module-federation) about it.\
 However, haven't used this solution in real projects yet.
 
-## 🖥️ Portfolio
+<!-- ## 🖥️ Portfolio
 
 See this!
 
 ## 🎓 Currently learning
 
-Always learning!
+Always learning!  -->
 
 ## 📈 GitHub Stats
 ![somewonderfulguy's Stats](https://github-readme-stats.vercel.app/api?username=somewonderfulguy&theme=yeblu&show_icons=true&hide_border=true&count_private=true)
