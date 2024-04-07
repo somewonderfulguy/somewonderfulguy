@@ -24,9 +24,9 @@ My main focus is web development using React. Speaking of which I have very stro
 
 #### React state management
 
-For few years I've been working with monolitic solutions such as Redux & MobX. \
 The most recent and relevant experience is working with React Query for several years as a server state solution. \
-As for micro state management my experience is Zustand and React Context.
+And Zustand or React Context for client state managament. \
+I also have experience of working with Redux and MobX for couple years with each of it.
 
 ### Scalability
 ![](https://img.shields.io/badge/Nx-143055?style=for-the-badge&logo=nx) \
