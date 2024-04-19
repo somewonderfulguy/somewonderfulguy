@@ -1,5 +1,5 @@
 # Hi, I'm Dmitriy.
-I am a front-end engineer since 2011.\
+Front-end engineer since 2011.\
 Working with React since 2017.\
 Working with TypeScript since 2019.
 
