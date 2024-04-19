@@ -9,7 +9,7 @@ Working with TypeScript since 2019.
 -->
 
 ## 👨‍💻 Skills
-[Read here]([url](https://github.com/somewonderfulguy/somewonderfulguy/blob/edit/SKILLS.md))
+[Read here](https://github.com/somewonderfulguy/somewonderfulguy/blob/main/SKILLS.md)
 
 <!-- ## 🖥️ Portfolio
 
